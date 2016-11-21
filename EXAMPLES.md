@@ -4,10 +4,13 @@
 - 30 air squats
 - 12 pull-ups @ 20# weight vest
 - 20 push-ups @ 20# weight vest
+- 15 air squats @ 20# weight vest
 - 10 pull-ups @ 20# weight vest
 - 15 push-ups @ 20# weight vest
+- 15 air squats @ 20# weight vest
 - 8 pull-ups @ 20# weight vest
 - 15 push-ups @ 20# weight vest
+- 15 air squats @ 20# weight vest
 - 5 sets x 3 reps power-clean + push-press @ 95# barbell
 - 15 ball slams @ 20# medicine ball
 
