@@ -12,7 +12,7 @@ I am not saying you should do this, or that I am strong or weak, or that this is
 
 I also do trail running and cycling (mostly mountain biking) regularly.
 
-For examples see [EXAMPLES.md](examples.md).
+For examples see [EXAMPLES.md](EXAMPLES.md).
 
 ## Format
 I pick one or two "main" exercises and one or two "extra" exercises (see below), then I target a total number of reps for the main exercises. On a "heavier" day the total number might be in the 15-50 range. On a lighter day the total number might be 50-150 or more. I don't have any scientific method of partitioning the sets and reps other than how I feel, what else I'm doing that day, etc. I might do 8 sets of 8 reps, or 5 sets of 4 reps, or 5 sets of 25 reps. Rest periods vary, but are almost always 90 seconds or less.
