@@ -1,3 +1,5 @@
+## Example 1
+
 - 3 minutes shadowboxing
 - 20 pull-ups
 - 30 push-ups
@@ -17,3 +19,23 @@
 Total time: 23 minutes
 
 I do not usually do Crossfit-style anaerobic "for time" workouts; the rest periods are long enough to catch my breath, but no longer.
+
+## Example 2
+
+- 6 rounds of the circuit:
+  - 8 pull-ups @ +25# weight
+  - 12 push-ups @ +35# plate
+
+Total: 48 weighted pullups, 72 weighted push-ups
+
+25 air squats @ bodyweight
+20 air squats @ 20# weight vest
+15 air squats @ 20# weight vest + 25# DB
+10 air squats @ 20# weight vest + 35# KB
+5 air squats @ 20# weight vest + 53# KB
+10 air squats @ 20# weight vest + 35# KB
+15 air squats @ 20# weight vest + 25# DB
+20 air squats @ 20# weight vest
+25 air squats @ bodyweight
+
+Total time: 30 minutes
