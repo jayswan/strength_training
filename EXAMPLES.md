@@ -28,14 +28,21 @@ I do not usually do Crossfit-style anaerobic "for time" workouts; the rest perio
 
 Total: 48 weighted pullups, 72 weighted push-ups
 
-25 air squats @ bodyweight
-20 air squats @ 20# weight vest
-15 air squats @ 20# weight vest + 25# DB
-10 air squats @ 20# weight vest + 35# KB
-5 air squats @ 20# weight vest + 53# KB
-10 air squats @ 20# weight vest + 35# KB
-15 air squats @ 20# weight vest + 25# DB
-20 air squats @ 20# weight vest
-25 air squats @ bodyweight
+- 25 air squats @ bodyweight
+- 20 air squats @ 20# weight vest
+- 15 air squats @ 20# weight vest + 25# DB
+- 10 air squats @ 20# weight vest + 35# KB
+- 5 air squats @ 20# weight vest + 53# KB
+- 10 air squats @ 20# weight vest + 35# KB
+- 15 air squats @ 20# weight vest + 25# DB
+- 20 air squats @ 20# weight vest
+- 25 air squats @ bodyweight
 
 Total time: 30 minutes
+
+## Example 3
+- 25 pull-ups @ bodyweight
+- 30 push-ups @ bodyweight
+- 4,3,3,3,3 power clean & push-press @ 95# barbell
+- practice DB & KB snatches for 5 minutes, relatively easy
+
