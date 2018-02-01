@@ -38,3 +38,7 @@
 
 ### Friday
 - Same as Monday
+
+### Saturday
+- Trail run/hike on steep terrain, ~ 2 hours.
+- BJJ open mat with kid.
