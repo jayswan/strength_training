@@ -39,6 +39,9 @@ I do the same set of basic exercises year-round, but I vary the sets, weights, a
   - Weighted
     - Because I don't have a bench, this is my primary upper body pressing exercise. I do them mostly with a 25 or 35 pound plate on my back, but sometimes I use a weight vest.
   - Unweighted
+  
+- Floor Press
+  - This is my secondary upper body pressing exercise. It's the same as a dumbbell bench press except you do it lying on the floor, so you have less range of motion.
 
 - Overhead Press
   - Barbell, dumbbell, kettlebell
