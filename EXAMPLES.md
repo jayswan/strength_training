@@ -1,48 +1,40 @@
-## Example 1
+## Monday
 
-- 3 minutes shadowboxing
-- 20 pull-ups
-- 30 push-ups
-- 30 air squats
-- 12 pull-ups @ 20# weight vest
-- 20 push-ups @ 20# weight vest
-- 15 air squats @ 20# weight vest
-- 10 pull-ups @ 20# weight vest
-- 15 push-ups @ 20# weight vest
-- 15 air squats @ 20# weight vest
-- 8 pull-ups @ 20# weight vest
-- 15 push-ups @ 20# weight vest
-- 15 air squats @ 20# weight vest
-- 5 sets x 3 reps power-clean + push-press @ 95# barbell
-- 15 ball slams @ 20# medicine ball
+- Morning
+  - Push-ups: 35 @ BW, 20 @ +25 plate, 3 x 12-15 @ +35 plate
+  - Pull-ups: 25 @ BW, 3 x 10 @ + 25, 10 @ BW
+- Lunch
+  - Walk or mountain bike for 40-60 minutes.
 
-Total time: 23 minutes
+### Tuesday
+- Morning
+  - Air squats: 30
+  - Goblet squats: 25 @ 25, 2 x 15 @ 35, 2 x 10 @ 53 KB
+  - Walking lunges: 2 x 20
+  - KB sumo deadlift: 2 x 10 @ 70# KB
+  - Hip stability balance practice
+  - Some planks, crunches, or twists
+ - Lunch
+  - Run 30 - 60 minutes easy
+  
+ ### Wednesday
+ - Morning
+   - Push-ups: 35 @ BW
+   - Pull-ups: 21 @ BW
+   - DB Overhead Press: 20 @ 25, 3 x 10-12 @ 35
+   - BB Push Press: 2 x 6-8 @ 95
+   - DB side raises: 3 x 10-15 @ 25
+   - Isometric shoulder position holds with a tow chain
+ - Lunch: walk, run, or bike 30-60 minutes
+   
+### Thursday - core therapy stuff
+- Bar hangs
+- Banded air squats, hold at bottom
+- Spinal waves
+- Banded back squats with bar, hold at bottom
+- Bodyweight hamstring lifts
+- Split squats
+- Various abdominal stability work
 
-I do not usually do Crossfit-style anaerobic "for time" workouts; the rest periods are long enough to catch my breath, but no longer.
-
-## Example 2
-
-- 6 rounds of the circuit:
-  - 8 pull-ups @ +25# weight
-  - 12 push-ups @ +35# plate
-
-Total: 48 weighted pullups, 72 weighted push-ups
-
-- 25 air squats @ bodyweight
-- 20 air squats @ 20# weight vest
-- 15 air squats @ 20# weight vest + 25# DB
-- 10 air squats @ 20# weight vest + 35# KB
-- 5 air squats @ 20# weight vest + 53# KB
-- 10 air squats @ 20# weight vest + 35# KB
-- 15 air squats @ 20# weight vest + 25# DB
-- 20 air squats @ 20# weight vest
-- 25 air squats @ bodyweight
-
-Total time: 30 minutes
-
-## Example 3
-- 25 pull-ups @ bodyweight
-- 30 push-ups @ bodyweight
-- 4,3,3,3,3 power clean & push-press @ 95# barbell
-- practice DB & KB snatches for 5 minutes, relatively easy
-
+### Friday
+- Same as Monday
