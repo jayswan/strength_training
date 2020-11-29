@@ -2,7 +2,7 @@
 
 A friend asked me to write up some basic notes on my current strength training routines.
 
-This is informed by the fact that I train at home, with a small but versatile range of equipment. I am reasonably fit, in my late 40s, and my priorities are to preserve strength while minimizing injury risk.
+This is informed by the fact that I train at home, with a small but versatile range of equipment. I am reasonably fit, in my ~late 40s~ early 50s, and my priorities are to preserve strength while minimizing injury risk.
 
 I train every weekday for about 20-30 minutes. There's nothing magic about this; your frequency and volume of training can and should change at various points in your life. In general, I have found that frequent, short periods of strength training work well for me, but you might be different.
 
@@ -11,8 +11,6 @@ The most important thing in physical training is consistency. It doesn't matter 
 I am not saying you should do this, or that I am strong or weak, or that this is good or bad, or better than workout X. It's just what I do and has worked reasonably well for me a long period of time.
 
 I also do trail running and cycling (mostly mountain biking) regularly.
-
-For examples see [EXAMPLES.md](EXAMPLES.md).
 
 ## Format
 I pick one or two "main" exercises and one or two "extra" exercises (see below), then I target a total number of reps for the main exercises. On a "heavier" day the total number might be in the 15-50 range. On a lighter day the total number might be 50-150 or more. I don't have any scientific method of partitioning the sets and reps other than how I feel, what else I'm doing that day, etc. I might do 8 sets of 8 reps, or 5 sets of 4 reps, or 5 sets of 25 reps. Rest periods vary, but are almost always 90 seconds or less.
@@ -28,7 +26,7 @@ I do the same set of basic exercises year-round, but I vary the sets, weights, a
   - Weighted
     - I use either a weight vest or a length of webbing hitched around a dumbbell or kettlebell to add weight.
   - Bodyweight
-  - I use a door mounted pull-up bar. I do mostly palms-away, shoulder-width pull-ups but I vary grips and widths sometimes.
+  - I do mostly palms-away, shoulder-width pull-ups but I vary grips and widths sometimes.
   - I do not do kipping pull-ups.
   - I do not hyperextend either my elbow or shoulder joints when doing pull-ups; I keep a little tension in both at the end of the range of motion.
   - To improve single-set pull-up count (e.g., for a physical fitness test requirement), do 5 sets of max reps with a 90 second rest, 3-4 days a week.
@@ -37,8 +35,11 @@ I do the same set of basic exercises year-round, but I vary the sets, weights, a
 
 - Push-ups
   - Weighted
-    - Because I don't have a bench, this is my primary upper body pressing exercise. I do them mostly with a 25 or 35 pound plate on my back, but sometimes I use a weight vest.
+    - I use either a weight vest or a plate balanced on my back.
   - Unweighted
+  
+- Bench Press
+  - I've done bench press on and off over the years, but I've rarely gone heavier than a 3-rep max to reduce injury risk. I think bench press is great if you can do it safely and without shoulder pain; this seems to vary a lot between people.
   
 - Floor Press
   - This is my secondary upper body pressing exercise. It's the same as a dumbbell bench press except you do it lying on the floor, so you have less range of motion.
@@ -70,9 +71,11 @@ I usually throw in one or two of these in any given workout, for a few sets of w
 - Sit ups
 - Planks
 - Dumbbell rows
+- One-hand dumbbell deadlifts
+- Ring dips
 
 ## Questions
 - Why don't you do heavy squats, deadlifts, etc?
-  - I am also doing a fair amount of running and cycling. I find that I can recover from the air squats, goblet squats, lunges, and power cleans and still be able to run and ride. If I do heavy squats and deads I don't recover fast enough. It might be different for you.
+  - I am also doing a fair amount of running and cycling. I find that I can recover from the air squats, goblet squats, lunges, and power cleans and still be able to run and ride. If I do heavy squats and deads I don't recover fast enough. It might be different for you. Sometimes I do barbell squats and deadlifts, but I keep the weight light (usually bodyweight or less).
 - What supplements do you take?
-  - The only supplement I take right now is Onnit krill oil.
+  - I use carbohydrate sports drinks from Tailwind Nutrition and an egg/whey protein powder mix from True Nutrition. No financial interest.
