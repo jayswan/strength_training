@@ -35,3 +35,6 @@ I use every regular bench rep as an opportunity to practice form: scapular retra
 - Work up to a near-max double or triple with fat grip deadlift (this will be substantially less weight than regular bar DLs, but will wreck your grip).
 - One-hand DB deadlifts, high pulls, or snatches with a fat grip DB.
 - Weight vest lunges.
+
+## Notes
+I am better at reps than maxes, so my rep weight quickly got out of whack with my percentages. The numbers say that my max should be about 10 pounds higher than it is, but my rep days are feeling easy enough that they go up much faster than my heavy days. I'm not sure what to make of this, but I'll take it.
