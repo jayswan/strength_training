@@ -3,6 +3,8 @@ This is the program I used to hit a lifetime bench PR at age 53. Note: I am not 
 
 This program was based on [this article on Reddit](https://www.reddit.com/r/Fitness/comments/rkmv1r/overtrained_50_consecutive_days_of_benching/). I knew from experience that I would need at least one day off, so I couldn't follow it exactly.
 
+I use every regular bench rep as an opportunity to practice form: scapular retraction, tight lats, full body tightness, leg drive, etc. I bench with a narrow grip and no arch, because of mobility limitations. If I could arch or grip wider, I would.
+
 ## Warm Up (6 days a week)
 - 5 pull-ups, 10 push-ups, 15 squats
   - Minimum: 1 set at bodyweight, 5 sets with a 22 pound weight vest. Sometimes more.
