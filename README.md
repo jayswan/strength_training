@@ -4,7 +4,7 @@ A friend asked me to write up some basic notes on my current strength training r
 
 This is informed by the fact that I train at home, with a small but versatile range of equipment. I am reasonably fit, in my ~late 40s~ early 50s, and my priorities are to preserve strength while minimizing injury risk.
 
-I train every weekday for about 20-30 minutes. There's nothing magic about this; your frequency and volume of training can and should change at various points in your life. In general, I have found that frequent, short periods of strength training work well for me, but you might be different.
+I train every weekday for about 30-60 minutes. There's nothing magic about this; your frequency and volume of training can and should change at various points in your life. In general, I have found that frequent, short periods of strength training work well for me, but you might be different.
 
 The most important thing in physical training is consistency. It doesn't matter that much what you do, as long as you do it consistently over a long period of time, work reasonably hard, and avoid injuries.
 
