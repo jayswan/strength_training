@@ -8,7 +8,7 @@ I use every regular bench rep as an opportunity to practice form: scapular retra
 ## Warm Up (6 days a week)
 - 5 pull-ups, 10 push-ups, 15 squats
   - Minimum: 1 set at bodyweight, 5 sets with a 22 pound weight vest. Sometimes more.
-- Bench warm up: whatever you need, but nothing higher than 4-5 easy reps
+- Bench warm up: whatever you need, but nothing higher than 4-5 easy reps per set.
 
 ## Basic Format
 - Start with a max you have actually done for 1 strict rep in the last two months.
