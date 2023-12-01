@@ -2,9 +2,11 @@
 
 A friend asked me to write up some basic notes on my current strength training routines.
 
-This is informed by the fact that I train at home, with a small but versatile range of equipment. I am reasonably fit, in my ~late 40s~ early 50s, and my priorities are to preserve strength while minimizing injury risk.
+This is informed by the fact that I train at home, with a small but versatile range of equipment. I am reasonably fit, in my ~late 40s~ ~early~ mid 50s, and my priorities are to preserve strength while minimizing injury risk.
 
 I train every weekday for about 30-60 minutes. There's nothing magic about this; your frequency and volume of training can and should change at various points in your life. In general, I have found that frequent, short periods of strength training work well for me, but you might be different.
+
+Now in my mid-50s, I alternate between one day of regular strength training and one day of mobility work. The strength training still follows what's shown below. My mobility work varies a lot, but I always have elements addressing mobility and stability for my shoulders, hips, core, and lower legs. Lots of balance stuff, different kinds of planks, etc etc.
 
 The most important thing in physical training is consistency. It doesn't matter that much what you do, as long as you do it consistently over a long period of time, work reasonably hard, and avoid injuries.
 
@@ -79,3 +81,4 @@ I usually throw in one or two of these in any given workout, for a few sets of w
   - I am also doing a fair amount of running and cycling. I find that I can recover from the air squats, goblet squats, lunges, and power cleans and still be able to run and ride. If I do heavy squats and deads I don't recover fast enough. It might be different for you. Sometimes I do barbell squats and deadlifts, but I keep the weight light (usually bodyweight or less).
 - What supplements do you take?
   - I use carbohydrate sports drinks from Tailwind Nutrition and an egg/whey protein powder mix from True Nutrition. No financial interest.
+  - Starting in my mid-50s, I take Citrical (a calcium + vitamin D3 supplement) and vitamin K2.
