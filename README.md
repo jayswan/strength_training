@@ -55,6 +55,7 @@ I do the same set of basic exercises year-round, but I vary the sets, weights, a
     - For this reason I err on the side of lighter weight, and I don't do more than 5 reps per set.
   - I usually shoot for about 20-25 total reps in a workout, but the weight, sets, and reps vary a lot.
   - I often do power-cleans into an overhead press or push-press.
+  - Note: now in my mid-50s I rarely do these. Sometimes I do high pulls with heavy fat-grip DBs instead.
 
 - Goblet Squats
   - Dumbbell or kettlebell
